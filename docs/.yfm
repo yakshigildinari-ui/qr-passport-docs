@@ -4,3 +4,8 @@ docs-viewer:
   langs: ['en','ru']
 
 themes: ['light', 'dark']
+
+search:
+  provider: local
+  tolerance: 2
+  confidenсe: phrased
