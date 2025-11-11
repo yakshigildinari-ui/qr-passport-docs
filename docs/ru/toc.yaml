@@ -10,7 +10,7 @@ navigation:
 items: 
   - name: Начало работы
     href: about.md
-  - name: Обновления
+  - name: История изменений
     href: updates.md
   - name: Раздел «Организация»
     include:

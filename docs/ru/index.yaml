@@ -39,7 +39,7 @@ blocks:
         text: |
           [Начало работы](about.md)
           
-          [Обновления](updates.md)
+          [История изменений](updates.md)
       - type: basic-card
         title: 
           text: Раздел «Организация»
