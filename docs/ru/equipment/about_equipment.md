@@ -13,19 +13,19 @@
 
 {% endnote %}
 
-{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**» или «**engineers**»" %}{name=cutgroup}
+{% cut "Отображение раздела для сотрудника с доступом «**company_administrator**» или «**engineers**»" %}
 
 ![Оборудование_admin](../_images/equipment_titul.png)
 
 {% endcut %}
 
-{% cut "Отображение раздела для сотрудника с доступом «**service**»" %}{name=cutgroup}
+{% cut "Отображение раздела для сотрудника с доступом «**service**»" %}
 
 ![Оборудование_engineers](../_images/equipment_titul_service.png)
 
 {% endcut %}
 
-{% cut "Отображение раздела для сотрудника с доступом «**warehouse**»" %}{#cut-3 name=cutgroup}
+{% cut "Отображение раздела для сотрудника с доступом «**warehouse**»" %}
 
 ![Оборудование_service](../_images/equipment_titul_warehouse.png)
 
@@ -36,3 +36,32 @@
 - ![Кнопка1](../_images/icon1.png)Добавить элемент
 - ![Кнопка2](../_images/icon2.png)Переход к подразделу
 - ![Кнопка3](../_images/icon3.png) Просмотр подраздела
+
+
+{% note info "" %}
+
+Раздел «Оборудование» будет выглядеть по-разному в зависимости от прав доступа. 
+
+{% endnote %}
+
+**Отображение раздела см. ниже:**
+
+{% list tabs %}
+
+- **company_administrator**»
+
+    ![Оборудование_admin](../_images/equipment_titul.png)
+
+- «**engineers**
+
+  ![Оборудование_admin](../_images/equipment_titul.png)
+
+- «**service**
+
+  ![Оборудование_engineers](../_images/equipment_titul_service.png)
+
+- «**warehouse**
+
+  ![Оборудование_service](../_images/equipment_titul_warehouse.png) 
+
+{% endlist %}
