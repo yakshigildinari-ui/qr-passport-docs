@@ -11,10 +11,12 @@
 1. [Тикеты](support.md#anchor)
 2. [Категории тикетов](ticket_categories.md#anchor)
 
-Отображение раздела для сотрудника с доступом «**company_administrator**» или «**service maintenance**»
+Отображение раздела для сотрудника с доступом «**company administrator**» или «**service maintenance**»
 
 ![Техническая поддержка](../_images/support_titul.png)
 
 **Активные кнопки**
-- ![Кнопка1](../_images/icon1.png)Добавить элемент
-- ![Кнопка2](../_images/icon2.png)Переход к подразделу
+
+![Кнопка1](../_images/icon1.png) – Добавить элемент
+
+![Кнопка2](../_images/icon2.png) – Переход к подразделу
