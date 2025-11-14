@@ -48,19 +48,19 @@
 
 {% list tabs %}
 
-- **company_administrator**»
+- **company_administrator**
 
     ![Оборудование_admin](../_images/equipment_titul.png)
 
-- «**engineers**
+- **_engineers_**
 
   ![Оборудование_admin](../_images/equipment_titul.png)
 
-- «**service**
+- service
 
   ![Оборудование_engineers](../_images/equipment_titul_service.png)
 
-- «**warehouse**
+- _warehouse_
 
   ![Оборудование_service](../_images/equipment_titul_warehouse.png) 
 
