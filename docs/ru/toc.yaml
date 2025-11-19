@@ -10,6 +10,8 @@ navigation:
 items: 
   - name: Начало работы
     href: about.md
+  - name: Быстрый старт
+    href: quick_start.md
   - name: История изменений
     href: updates.md
   - name: Раздел «Организация»
