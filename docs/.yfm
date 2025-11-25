@@ -9,3 +9,8 @@ search:
   provider: local
   tolerance: 2
   confidenсe: phrased
+
+  extensions:
+  - name: mdit-plugins
+    plugins:
+    - '@diplodoc/transform/lib/plugins/checkbox'
