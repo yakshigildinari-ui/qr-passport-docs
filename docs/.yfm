@@ -1,3 +1,6 @@
+vcs: true
+mtimes: true
+
 langs: ['ru', 'en']
 
 docs-viewer:
@@ -10,7 +13,8 @@ search:
   tolerance: 2
   confidenсe: phrased
 
-  extensions:
+extensions:
   - name: mdit-plugins
     plugins:
     - '@diplodoc/transform/lib/plugins/checkbox'
+  - name: github-vcs
