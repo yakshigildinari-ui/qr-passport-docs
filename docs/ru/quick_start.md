@@ -297,10 +297,6 @@ QR-коды тестовых моделей не предназначены дл
     - Изучите остальные разделы инструкции.
     - Приступите к созданию рабочих моделей и регистрации оборудования для повседневной эксплуатации.
 
-- [x] ~~Написать пресс-релиз~~
-- [ ] Обновить веб-сайт  
-- [ ] Связаться со СМИ
-
 [1]: https://qrpassport.app/admin 
 [2]: https://drive.google.com/file/d/1xh0eA0VrihKidtuXI3gAO0bzgLKrW8QQ/view?usp=drive_link
 [3]: https://drive.google.com/file/d/1YYg4_5evp6vykjUT1olIjb18uZoRsn_g/view?usp=drive_link

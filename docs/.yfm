@@ -14,7 +14,4 @@ search:
   confidenсe: phrased
 
 extensions:
-  - name: mdit-plugins
-    plugins:
-    - '@diplodoc/transform/lib/plugins/checkbox'
   - name: github-vcs
