@@ -1,6 +1,3 @@
-vcs: true
-mtimes: true
-
 langs: ['ru', 'en']
 
 docs-viewer:
@@ -15,3 +12,5 @@ search:
 
 extensions:
   - name: github-vcs
+    vcs: true
+    mtimes: true
