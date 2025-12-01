@@ -12,5 +12,7 @@ search:
 
 extensions:
   - name: github-vcs
-    vcs: true
-    mtimes: true
+
+vcs: true
+
+mtimes: true
