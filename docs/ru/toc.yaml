@@ -10,19 +10,27 @@ navigation:
 items: 
   - name: Начало работы
     href: about.md
+    
   - name: Быстрый старт
     href: quick_start.md
-  - name: История изменений
-    href: updates.md
+    
   - name: Раздел «Организация»
     include:
       path: company/toc.yaml
       mode: link   
+      
   - name: Раздел «Оборудование»
     include:
       path: equipment/toc.yaml
-      mode: link   
+      mode: link  
+      
   - name: Раздел «Техническая поддержка»
     include:
       path: support/toc.yaml
       mode: link
+        
+  - name: История изменений
+    href: updates.md
+
+  - name: Часто задаваемые вопросы
+    href: FAQ.md
